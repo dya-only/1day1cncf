@@ -1,5 +1,5 @@
 # 1day1cncf
-a routine to study one CNCF project per day.
+a routine to study one CNCF project per week.
 [CNCF Landscape](https://landscape.cncf.io/?view-mode=grid)
 
 ![image](https://github.com/user-attachments/assets/260d79e8-97fd-4151-ab46-b1a56537420d)
